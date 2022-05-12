@@ -1,0 +1,25 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    align-items: center;
+    background: -webkit-linear-gradient(120deg,#c909da,#05ff8a,#5900e9);
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.footer--
+{
+    color: rgb(83, 8, 133);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    
+}
